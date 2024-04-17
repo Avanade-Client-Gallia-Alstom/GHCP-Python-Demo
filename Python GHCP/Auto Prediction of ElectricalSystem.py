@@ -1,0 +1,1 @@
+#create a method named electrical_system using numpy, scipy and matplotlib libraries which accepts state and t as input parameters and predict the behaviour of electrical systems display the final result as a graph
