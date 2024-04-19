@@ -1,2 +1,0 @@
-#Create a Python script to forecast the next maintenance schedule for trains using data columns: Train_Name, Train_Number, daily_distance, Last_Engine_Maintenance, Last_Brake_Maintenance, and Last_Wheel_Maintenance. Develop functionality to analyze the dataset, calculate the next maintenance schedule for each train component (engine, brake system, wheel assembly), and provide the predicted maintenance dates as output.
-
