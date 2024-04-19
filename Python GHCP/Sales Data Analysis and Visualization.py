@@ -1,2 +1,0 @@
-# Genearte a Python script for analyzing and visualizing sales data from a CSV file. The script should read the sales data from the provided CSV file, perform basic data analysis to calculate total sales, average sales, maximum sales, and minimum sales. Additionally, it should generate a line plot to visualize the sales data over time, with dates on the x-axis and sales amount on the y-axis. Ensure that the script displays the analysis results and the visualization.
-
