@@ -1,0 +1,36 @@
+Book_CURD file:
+prompt - Create a list of 5 sample books with title and author
+prompt - Create a Rest API using flask framework to perform CRUD operations on the collection of above list of books
+Action - Fix issue -- auto sugesstion of pip Install Falsk
+Action - Fix command with prompt -  Implement error handling
+Action - Unit test case generation for Update method
+
+Webdevelopment File:
+Chat prompt -  Create a simple user interface form for train maintenance booking using the Dash framework.
+Chat prompt - This form should create control using column headers extracted from the dataset titled #file:train_maintainance_data.csv
+Action - Apply style from file #file:styles.css
+
+AutoCompletion:
+Action - Auto Suggestions Read and write into pdf file - Import PyPDF2
+
+Monitoring:
+prompt - Create a function to monitor  the CPU usage of a system continuously.
+action - Auto suggestion to monitor memory usage of a system.
+prompt - #create a function for sending an email
+action - send an email if cpu usage greater than 80%
+action - fix issue - mention sending email part inside cpu_usage method
+
+PythonCodingStandard:
+prompt - write a function following coding standard file #file:CodingStandard.json to check if a string is a palindrome 
+Action - try modifying json file using  //CamelCase, snake_case, PascalCase, kebab-case 
+
+DataScience:
+prompt - Create Python code using pandas library and analyze sentiment from a CSV file named "sentiment" containing customer feedback. The CSV file has the feedback column. Use NLTK's VADER module to classify each feedback as positive, negative, or neutral. display the feedback along with its corresponding sentiment category.​
+
+ScientificCompute:
+prompt - create a method named electrical_system using numpy, scipy and matplotlib libraries which accepts state and t as input parameters and predict the behaviour of electrical systems display the final result as a graph​
+
+​CodeOptimization:
+prompt - can you please optimize the below selected code for better performance and readability
+
+
